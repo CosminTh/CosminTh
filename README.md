@@ -13,3 +13,6 @@ Languages and tools:
 - SQL: MySQL, SQL Database, SQL Data Type, SQL Functions
 - Experience with GitHub and Visual Studio Code
 
+
+Certifications :
+- https://www.freecodecamp.org/certification/gozminee/responsive-web-design
