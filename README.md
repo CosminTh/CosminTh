@@ -14,6 +14,6 @@ Languages and tools:
 - Experience with GitHub and Visual Studio Code
 
 
-Certifications :
+Certifications:
 - Responsive Web Design: https://www.freecodecamp.org/certification/cosminth/responsive-web-design
 - Javascript Algorithms and Data Structures: https://www.freecodecamp.org/certification/CosminTh/javascript-algorithms-and-data-structures
