@@ -15,4 +15,4 @@ Languages and tools:
 
 
 Certifications :
-- https://www.freecodecamp.org/certification/gozminee/responsive-web-design
+- https://www.freecodecamp.org/certification/cosminth/responsive-web-design
