@@ -15,4 +15,5 @@ Languages and tools:
 
 
 Certifications :
-- https://www.freecodecamp.org/certification/cosminth/responsive-web-design
+- Responsive Web Design: https://www.freecodecamp.org/certification/cosminth/responsive-web-design
+- Javascript Algorithms and Data Structures: https://www.freecodecamp.org/certification/CosminTh/javascript-algorithms-and-data-structures
