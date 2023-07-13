@@ -9,7 +9,6 @@ Languages and tools:
 - HTML5: HTML Forms
 - CSS: Flexbox, Bootstrap (On-going courses), Variables, CSS Pseudo-selectors, CSS Animation
 - JavaScript: React (On-going courses), ES6
-- PHP: PHP Variables, PHP Operators, PHP Strings, PHP Loops
 - SQL: MySQL, SQL Database, SQL Data Type, SQL Functions
 - Experience with GitHub and Visual Studio Code
 
