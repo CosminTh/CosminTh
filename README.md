@@ -5,12 +5,11 @@ Cosmin here, a passionate, self-taught Front-end developer from Romania.
 - 🌱 I’m currently learning in-depth Javascript and React.
 - 📫 How to reach me: https://www.linkedin.com/in/cosmin-tohaneanu-02882a157/
 
-Languages and tools:
-- HTML5: HTML Forms
-- CSS: Flexbox, Bootstrap (On-going courses), Variables, CSS Pseudo-selectors, CSS Animation
-- JavaScript: React (On-going courses), ES6
-- SQL: MySQL, SQL Database, SQL Data Type, SQL Functions
-- Experience with GitHub and Visual Studio Code
+Web Development and Frontend Development course - from April 2023 until
+September 2023
+
+Technologies: HTML, CSS, Bootstrap, Javascript ES6, React, JSON, Ajax, Git version
+control, Github, Visual Studio Code
 
 
 Certifications:
